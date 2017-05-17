@@ -1,0 +1,11 @@
+    .arrlist {
+      height: 30px;
+      width: 50px;
+      margin: 2px;
+      float: left;
+    }
+    
+    .arr {
+      width: 50%;
+      float: left;
+    }
